@@ -1,0 +1,6 @@
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\arrays\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\arrays\arrays\obj\Debug\arrays.pdb
